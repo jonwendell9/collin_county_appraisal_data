@@ -36,11 +36,11 @@ To use the scripts in this repository, ensure you have [Python 3.x](https://www.
 ## Disclaimer  
 Data Source: This project utilizes open data from the Texas.gov Open Data Portal. While the portal aims to provide non-regulated, public information, I have no control over what is published there.
 
-PII Removal Efforts: The original publicly available dataset may have contained non-sensitive personally identifiable information (PII).
-This project makes a good-faith effort to anonymize or redact any such information where possible. However, complete removal is not guaranteed.
-
 No Liability for Data Changes: I am not responsible for the contents of the upstream dataset.
 If the State of Texas or its agencies add new columns, fields, or records that contain PII or could lead to the identification of an individual, I am not liable for the presence of that data in this project.
+
+PII Removal Efforts: The original publicly available dataset did not contain any form of personally identifiable information (PII).
+This project makes a good-faith effort to anonymize or redact any such information where possible. However, complete removal is not guaranteed.
 
 No Affiliation or Maintenance: I am not affiliated with the Texas Department of Information Resources (DIR) or any state agency. I do not maintain the official data and provide this project "as is" with no warranty of any kind.
 
