@@ -27,6 +27,9 @@ It is designed to assist users in accessing, collecting, and analyzing public pr
   
 2. https://data.texas.gov/stories/s/Welcome-to-the-Texas-Open-Data-Portal-2025/pgq4-7ntc/#:~:text=What%20is%20open%20data?,license%20number%2C%20or%20medical%20information  
 
+<img width="1272" height="838" alt="image" src="https://github.com/user-attachments/assets/15cc4070-a269-40f0-a9ec-c0a7dc6cfd82" />
+
+
 ## Installation  
 To use the scripts in this repository, ensure you have [Python 3.x](https://www.python.org/downloads/) installed. Clone the repository and install dependencies.
 
@@ -34,7 +37,7 @@ To use the scripts in this repository, ensure you have [Python 3.x](https://www.
 Data Source: This project utilizes open data from the Texas.gov Open Data Portal. While the portal aims to provide non-regulated, public information, I have no control over what is published there.
 
 PII Removal Efforts: The original publicly available dataset may have contained non-sensitive personally identifiable information (PII).
-This project makes a good-faith effort to anonymize or redact such information where possible. However, complete removal is not guaranteed.
+This project makes a good-faith effort to anonymize or redact any such information where possible. However, complete removal is not guaranteed.
 
 No Liability for Data Changes: I am not responsible for the contents of the upstream dataset.
 If the State of Texas or its agencies add new columns, fields, or records that contain PII or could lead to the identification of an individual, I am not liable for the presence of that data in this project.
