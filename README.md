@@ -44,4 +44,4 @@ If the State of Texas or its agencies add new columns, fields, or records that c
 
 No Affiliation or Maintenance: I am not affiliated with the Texas Department of Information Resources (DIR) or any state agency. I do not maintain the official data and provide this project "as is" with no warranty of any kind.
 
-User Responsibility: Users of this project are responsible for complying with the Texas Data Privacy and Security Act and all other applicable privacy laws when handling or redistributing this data.
+User Responsibility: Users of this project are responsible for complying with the Texas Data Privacy and Security Act and all other applicable privacy laws when handling or redistributing this data.  
